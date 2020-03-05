@@ -20,6 +20,6 @@ Very simple. Download the project folder and execute index.html file.
 프로젝트를 로컬컴퓨터에 다운로드 하신 후 index.html 파일을 클릭하시면 실행 가능합니다.
 
 ## What I used for this project 
-- Vanilla JS
-- CSS
-- HTML
+- [X] HTML
+- [X] CSS
+- [X] Vanilla JS
