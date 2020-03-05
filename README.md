@@ -4,6 +4,7 @@
 ## Demo Link
 
 ## Demo Video
+![](demo.gif)
 
 ## Project Description 
 This is a paint site. Enjoy your drawing!  
