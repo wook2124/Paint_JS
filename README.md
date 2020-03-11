@@ -1,8 +1,8 @@
 # Paint_JS
-- Painting Board made with Vanilla JS
+Painting Board made with Vanilla JS
 
 ## Demo Link
-[Paint_JS](https://wook2124.github.io/Paint_JS/)
+- [Paint_JS](https://wook2124.github.io/Paint_JS/)
 
 ## Demo Video
 ![](demo.gif)
