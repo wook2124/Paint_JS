@@ -26,7 +26,7 @@ This is a paint site. Refer to feature below for functions, and enjoy your drawi
 
 ## Customization: How to run this project
 
-Very simple. Download the project folder and execute index.html file. or Just click [Paint_JS](https://wook2124.github.io/Paint_JS/)!  
+Very simple. Download the project folder and execute index.html file or Just click [Paint_JS](https://wook2124.github.io/Paint_JS/)!  
 프로젝트를 로컬컴퓨터에 다운로드 하신 후 index.html 파일을 클릭하시거나, [Paint_JS](https://wook2124.github.io/Paint_JS/)를 클릭하세요!
 ## What I used for this project 
 
