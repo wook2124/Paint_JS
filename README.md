@@ -12,8 +12,8 @@ Painting Board made with Vanilla JS
 
 ## Project Description 
 
-This is a paint site. Refer to feature below for functions, and enjoy your drawing!  
-그림을 그릴 수 있는 웹페이지입니다. 기능은 아래의 feature를 참고해주세요.
+This is a paint site. Refer to the `Feature` below for the functions and enjoy your drawing!  
+그림을 그릴 수 있는 웹페이지입니다. 기능들은 아래 `Feature`를 참고해주세요.
 
 ### `Feature`
 
@@ -26,8 +26,8 @@ This is a paint site. Refer to feature below for functions, and enjoy your drawi
 
 ## Customization: How to run this project
 
-Very simple. Download the project folder and execute index.html file or Just click [Paint_JS](https://wook2124.github.io/Paint_JS/)!  
-프로젝트를 로컬컴퓨터에 다운로드 하신 후 index.html 파일을 클릭하시거나, [Paint_JS](https://wook2124.github.io/Paint_JS/)를 클릭하세요!
+Very simple. Just click [Paint_JS](https://wook2124.github.io/Paint_JS/) and enjoy!  
+위 링크를 클릭하고 사용하면 됩니다.
 ## What I used for this project 
 
 - [X] HTML
