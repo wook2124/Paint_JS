@@ -26,8 +26,9 @@ This is a paint site. Refer to the `Feature` below for the functions and enjoy y
 
 ## Customization: How to run this project
 
-Very simple. Just click [Paint_JS](https://wook2124.github.io/Paint_JS/) and enjoy!  
+Very simple. Click [Paint_JS](https://wook2124.github.io/Paint_JS/) and enjoy!  
 위 링크를 클릭하고 사용하면 됩니다.
+
 ## What I used for this project 
 
 - [X] HTML
