@@ -1,6 +1,6 @@
 # Paint_JS
 
-Painting Board made with Vanilla JS😊
+Painting Board made with Vanilla JS
 
 ## Demo Link
 
@@ -12,7 +12,7 @@ Painting Board made with Vanilla JS😊
 
 ## Project Description 
 
-This is a paint site. Refer to the `Feature` below for the functions and enjoy your drawing!  
+This is a paint site. Refer to the `Feature` below for the functions and enjoy your drawing!🤗  
 그림을 그릴 수 있는 웹페이지입니다. 기능들은 아래 `Feature`를 참고해주세요.
 
 ### `Feature`
