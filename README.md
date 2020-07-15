@@ -1,6 +1,6 @@
 # Paint_JS
 
-Painting Board made with Vanilla JS
+Painting Board made with Vanilla JS😊
 
 ## Demo Link
 
