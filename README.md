@@ -1,6 +1,6 @@
 # Paint_JS
 
-Painting Board made with Vanilla JS
+Painting Board made with `Vanilla JS`.
 
 ## Demo Link
 
@@ -33,4 +33,4 @@ Very simple. Click [Paint_JS](https://wook2124.github.io/Paint_JS/) and Enjoy!
 
 - [X] HTML
 - [X] CSS
-- [X] Vanilla JS
+- [X] JavaScript
